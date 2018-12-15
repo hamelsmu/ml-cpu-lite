@@ -11,6 +11,7 @@ RUN pip --no-cache-dir install --upgrade \
     more_itertools \
     scipy \
     pandas \
+    parso \
     pytest \
     mypy
 
